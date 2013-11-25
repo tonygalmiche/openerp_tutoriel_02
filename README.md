@@ -1,4 +1,4 @@
-InfoSaône / OpenERP Tutoriel 02
+InfoSaône / OpenERP Tutoriel 02 - Module avec image
 ===================
 
 Ce module n'a aucune fonctionnalité. 
